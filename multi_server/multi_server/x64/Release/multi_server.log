@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Szymon\Documents\GitHub\ChessOnline\multi_server\multi_server\main.cpp(152,48): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Szymon\Documents\GitHub\ChessOnline\multi_server\multi_server\main.cpp(152,48): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Szymon\Documents\GitHub\ChessOnline\multi_server\multi_server\main.cpp(102,23): warning C4101: 'client_buf': unreferenced local variable
+  Generating code
+  1 of 85 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  multi_server.vcxproj -> C:\Users\Szymon\Documents\GitHub\ChessOnline\multi_server\x64\Release\multi_server.exe

@@ -1,0 +1,6 @@
+C:\Users\maciek\Downloads\ChessOnline-main (3)\ChessOnline-main\ChessOnline\x64\Debug\ChessOnline.exe
+C:\Users\maciek\Downloads\ChessOnline-main (3)\ChessOnline-main\ChessOnline\x64\Debug\ChessOnline.pdb
+C:\Users\Szymon\Desktop\CHEZ\ChessOnline\x64\Debug\ChessOnline.exe
+C:\Users\maciek\Downloads\SZACHY\CHEZ\ChessOnline\x64\Debug\ChessOnline.exe
+C:\Users\maciek\Downloads\SZACHY\CHEZ\ChessOnline\x64\Debug\ChessOnline.pdb
+C:\Users\red55\Downloads\CHEZ\ChessOnline\x64\Debug\ChessOnline.exe

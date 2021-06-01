@@ -1,0 +1,2 @@
+﻿  LINK : C:\Users\maciek\source\repos\multi_server\Debug\multi_server.exe not found or not built by the last incremental link; performing full link
+LINK : fatal error LNK1104: cannot open file 'C:\Users\maciek\source\repos\multi_server\Debug\multi_server.exe'
